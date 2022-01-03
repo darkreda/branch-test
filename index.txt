@@ -1,3 +1,5 @@
-Bonjour , c'est reda iraqi
+﻿Bonjour , c'est reda iraqi
 et aujourd'hui j'ai ajouté une ligne
 et encore une pour tester le commit sans add
+
+bon et si on modifie a la main ? 
