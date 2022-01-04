@@ -7,3 +7,4 @@ bon et si on modifie a la main ?
 
 on s'est connecter a github
 on a lié le compte à notre branch local ( remote)
+j'applique une modification sur le Github directement
